@@ -1,0 +1,8 @@
+MaxDiff=20
+Cooldown=1500
+HotKey=Z
+EndKey=RControlKey
+Mirror=True
+XOffset=2
+YOffset=2
+SerialPort=COM5
