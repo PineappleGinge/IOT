@@ -1,0 +1,25 @@
+# Maximum color difference = int
+MaxDiff=20
+
+# Cooldown between shots = int
+Cooldown=1500
+
+# Key to start loop = Keys
+HotKey=Z
+
+# Key to exit app = Keys
+EndKey=RControlKey
+
+# Mirror scan to other horizontal side = bool
+Mirror=True
+
+# X offset from the center of the screen = int
+XOffset=2
+
+# Y offset from the center of the screen = int
+YOffset=2
+
+# Serial port of Arduino Leonardo
+SerialPort=COM5
+AimKey=Z
+TriggerKey=OemPipe
